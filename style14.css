@@ -42,8 +42,8 @@ z-index: 0;
 }
 
 
-.cert  {  width: 550px;
-margin: auto auto auto auto; display: block;
-height: 300px;
+.cert  {  width: 750px;
+float: left;
+height: 450px;
 
 }
